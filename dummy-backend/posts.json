@@ -1,0 +1,44 @@
+{
+    "posts": [
+        {
+            "text": "It's always a good time",
+            "name": "Singer",
+            "id": "0.5092934601846815"
+        },
+        {
+            "text": "Use modal to wrap children",
+            "name": "Dylan",
+            "id": "0.9524181284965851"
+        },
+        {
+            "text": "Test pull out the loaders from components in use of React Router",
+            "name": "Harry",
+            "id": "0.25182065074523763"
+        },
+        {
+            "text": "Test pull out the action from component",
+            "name": "Jerry",
+            "id": "0.9010008465848991"
+        },
+        {
+            "text": "React Router is a powerful tool",
+            "name": "Rose",
+            "id": "0.12262829983169232"
+        },
+        {
+            "name": "Jack",
+            "text": "I like React JS, but there are still many technique need to learn.",
+            "id": "0.5979223342353919"
+        },
+        {
+            "name": "Tom",
+            "text": "Learning React JS is an enjoy thing.",
+            "id": "0.6046531014782008"
+        },
+        {
+            "name": "Bob",
+            "text": "React JS is awesome!",
+            "id": "0.06373375620831756"
+        }
+    ]
+}
